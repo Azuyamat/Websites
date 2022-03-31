@@ -2,14 +2,18 @@
 
 This is a list of repos for the websites I've made (Public)
 
-##[AZUYAMAT](https://azuyamat.com)
+### [AZUYAMAT](https://azuyamat.com)
 
-My main website where I showcase my projects and display myself
+> My **main** website where I showcase my projects and display myself
+---
+### Where do I host my websites?
 
-###Where do I host my websites?
+> I host most of my websites on **repl.it** because it is a convenient hosting solution for me
 
-I host most of my websites on repl.it because it is a convenient hosting solution for me
+### Where do I buy my domains?
 
-###Where do I buy my domains?
+> I buy my domains from **Namecheap**, and I have a couple...
 
-I buy my domains from Namecheap, and I have a couple...
+
+
+	If you would like me to code a website for you, please contact me
